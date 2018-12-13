@@ -4,7 +4,7 @@
 
 ### 系统环境
 
-操作系统：Linux，推荐使用腾讯云 CentOS 7 系列 CVM，暂不支持 Windows 系统。
+操作系统：Linux，推荐使用建行云 CentOS 7 系列 CVM，暂不支持 Windows 系统。
 
 推荐下载使用Xshell，FileZilla。以下范例都是在XShell，FileZilla下运行。
 
