@@ -40,6 +40,21 @@ Windows 或 Linux 系统
    ```
    pip install coscmd -U
    ```
+- 离线安装
+   ```
+    # 在有外网的机器下运行如下命令
+	mkdir coscmd-packages
+	pip download coscmd -d coscmd-packages
+	tar -czvf coscmd-packages.tar.gz coscmd-packages
+   ```	
+  注意： 请确保两台机器的 python 版本保持一致，否则会出现安装失败的情况
+
+   ```
+    # 将安装包拷贝到没有外网的机器后运行如下命令
+	tar -xzvf coscmd-packages.tar.gz
+	pip install coscmd --no-index -f coscmd-packages
+   ```
+
 
 
 
