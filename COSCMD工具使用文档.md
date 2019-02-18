@@ -116,7 +116,7 @@ coscmd upload /home/aaa/123.txt bbb/  //操作示例
 范例：
 
 ```
-coscmd upload tencentCloudLogo.png cloudlogo.png
+coscmd upload ccbCloudLogo.png cloudlogo.png
 ```
 
 
