@@ -8,7 +8,7 @@
 
 推荐下载使用Xshell，FileZilla。以下范例都是在XShell，FileZilla下运行。
 
-Python 解释器版本：Python 2.7，可参考 [Python 安装与配置](https://cloud.tencent.com/document/product/436/10866) 进行安装与配置。
+Python 解释器版本：Python 2.7，可参考 [Python 安装与配置](https://wiki.python.org/moin/BeginnersGuide/Download) 进行安装与配置。
 
 依赖库：
 
