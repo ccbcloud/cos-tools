@@ -96,7 +96,7 @@ chmod 640 /etc/passwd-cosfs
 其中：
 bucketname/ SecretId/ SecretKey 需要替换为用户的真实信息。
 
-bucketname 形如 bucketprefix-123456789, 更多关于 bucketname 的命名规范，请参见 [存储桶命名规范](https://github.com/ccbcloud/cos-api#基本信息#.E5.AD.98.E5.82.A8.E6.A1.B6.E5.91.BD.E5.90.8D.E8.A7.84.E8.8C.83)。
+bucketname 形如 bucketprefix-123456789, 更多关于 bucketname 的命名规范，请参见 [存储桶命名规范](https://github.com/ccbcloud/cos-api#基本信息)。
 
 范例：
 
