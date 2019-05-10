@@ -18,13 +18,13 @@ Windows 或 Linux 系统
 
 ### 安装及配置
 
-环境安装与配置详细操作，请参考 [Python 安装与配置](https://cloud.tencent.com/document/product/436/10866)。
+环境安装与配置详细操作，请参考 [Python 安装与配置](https://wiki.python.org/moin/BeginnersGuide/Download)。
 
 ## 下载安装
 
 1. 检查系统环境是否是 Windows 或 Linux 系统。
 
-2. 检查是否装载 Python，若没有安装，具体参考 [Python 安装与配置](https://cloud.tencent.com/document/product/436/10866) 。
+2. 检查是否装载 Python，若没有安装，具体参考 [Python 安装与配置](https://wiki.python.org/moin/BeginnersGuide/Download) 。
 
 3. 检查是否装载最新版本 pip，若没有安装，请前往 [PyPA pip 文档](https://pip.pypa.io/en/stable/installing/) 按照教程安装。
 
@@ -116,7 +116,7 @@ coscmd upload /home/aaa/123.txt bbb/  //操作示例
 范例：
 
 ```
-coscmd upload tencentCloudLogo.png cloudlogo.png
+coscmd upload ccbCloudLogo.png cloudlogo.png
 ```
 
 
