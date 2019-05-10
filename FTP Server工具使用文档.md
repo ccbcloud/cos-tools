@@ -129,9 +129,9 @@ log_dir             = log                  # 设置日志的存放目录，默�
 
 ```
 [COS_ACCOUNT]
-cos_secretid = ABCDEabcABCbeOovjDtI21h3mCJ7dsnQwkSq
-cos_secretkey = ABCs12g21j8DzTdU2HDqBDzpLbABCDzF
-cos_bucket = a-1234000008
+cos_secretid = AK*****************************wkSq
+cos_secretkey = AB*************************CDzF
+cos_bucket = ***-1255******
 endpoint = cos.wh.yun.ccb.com
 cos_user_home_dir = /data
 
